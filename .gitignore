@@ -1,2 +1,4 @@
 devel/*
 build/*
+src/auto_nav/bag/*
+src/auto_nav/.vscode/*
